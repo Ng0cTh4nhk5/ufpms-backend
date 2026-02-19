@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello from UFPMS Backend!";
+        return "Hello from UFPMS!";
     }
 }
